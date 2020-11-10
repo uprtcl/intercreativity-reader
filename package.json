@@ -20,7 +20,7 @@
     "test": "jest --coverage --watchAll --config=configs/jest.json"
   },
   "dependencies": {
-    "@uprtcl/evees-polkadot": "0.1.0-beta.13",
+    "@uprtcl/evees-polkadot": "0.1.0-beta.14",
     "@uprtcl/evees-reader": "0.1.0-beta.7",
     "ipfs": "^0.50.2",
     "source-map-loader": "^1.1.2"
